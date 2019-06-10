@@ -239,7 +239,7 @@ namespace RazorEngine.Roslyn.CSharp
                     opts = opts.WithDebugInformationFormat(DebugInformationFormat.PortablePdb);
                 }
 
-                var result = compilation.Emit(assemblyStream, pdbStreamHelper, options: opts);
+                var result = compilation.Emit(assemblyStream);
                 if (!result.Success)
                 {
                     var errors =
