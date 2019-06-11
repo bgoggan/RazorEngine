@@ -22,6 +22,7 @@
     <RepositoryUrl>https://github.com/fouadmess/RazorEngine</RepositoryUrl>
     <PackageProjectUrl>https://github.com/fouadmess/RazorEngine</PackageProjectUrl>
     <Version>2.2.2</Version>
+    <PackageVersion>2.2.2-Hotfix</PackageVersion>
     <Copyright>RazorEngine Copyright © RazorEngine Project 2011-2018</Copyright>
     <Company>RazorEngine</Company>
     <Product>RazorEngine</Product>
